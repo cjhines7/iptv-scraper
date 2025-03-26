@@ -927,6 +927,9 @@ https://ddy6new.koskoros.ru/ddy6/premium770/mono.m3u8|Referer=https%3A%2F%2Fchim
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-boets-ru.png" group-title="RUSSIA",Match Boets Russia
 https://windnew.koskoros.ru/wind/premium395/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-2-ru.png" group-title="RUSSIA",Match Football 2 Russia
+https://ddy6new.koskoros.ru/ddy6/premium137/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-premier-ru.png" group-title="RUSSIA",Match Premier Russia
 https://ddy6new.koskoros.ru/ddy6/premium573/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
@@ -1856,6 +1859,9 @@ https://dokko1new.koskoros.ru/dokko1/premium560/mono.m3u8|Referer=https%3A%2F%2F
 
 #EXTINF:-1 tvg-id="TVP.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp2-poland.png" group-title="POLAND",TVP2 Poland
 https://dokko1new.koskoros.ru/dokko1/premium561/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tyc-sports-ar.png" group-title="ARGENTINA",TYC Sports Argentina
+https://ddy6new.koskoros.ru/ddy6/premium746/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/teennick-us.png" group-title="UNITED STATES",TeenNick
 https://dokko1new.koskoros.ru/dokko1/premium650/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
